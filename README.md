@@ -1,4 +1,4 @@
-# Desenvolvimento Mobile - AppConvidados
+# Desenvolvimento Mobile - AppConvidados!
 
 ## Descrição
 
@@ -6,7 +6,7 @@ Bem-vindo ao repositório oficial do projeto mobile AppConvidados! Este é um tr
 
 ## Sobre o Projeto
 
-O AppConvidados é uma solução mobile que busca ajudar quem está pensando em ter controle dos convidados de sua festa. Desenvolvido com tecnologias de ponta e boas práticas de programação, nosso objetivo é proporcionar uma experiência excepcional para os usuários.
+O AppConvidados! é uma solução mobile que busca ajudar quem está pensando em ter controle dos convidados de sua festa. Desenvolvido com tecnologias de ponta e boas práticas de programação, nosso objetivo é proporcionar uma experiência excepcional para os usuários.
 
 ## Principais Recursos
 
